@@ -33,6 +33,7 @@ export type TDriverParams = {
   email: string;
   address: string;
   driverPhoto: string;
+  assignedCars: string[];
   path: string;
 };
 
